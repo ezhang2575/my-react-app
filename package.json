@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0",
     "recharts": "^2.10.3",
-    "@/components/ui": "latest"
+    "@shadcn/ui": "latest"
   },
   "scripts": {
     "start": "react-scripts start",

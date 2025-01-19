@@ -1,6 +1,6 @@
 import React from 'react';
 import { ComposedChart, Bar, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "@shadcn/ui/card";
 
 const MonthlyMetrics = () => {
   const data = [
